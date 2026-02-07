@@ -1,6 +1,7 @@
 # 🏗️ "Architecting Knowledge" - Java Wisdom Series
 
-A curated collection of practical Java and Spring concepts, explained from an architect’s lens. Published twice a week (every Wednesday and Sunday) on [LinkedIn](https://www.linkedin.com/in/mandar-pandit/).
+A curated collection of practical Java and Spring concepts, explained from an architect’s lens.
+Published twice a week (every Wednesday and Sunday) on [LinkedIn](https://www.linkedin.com/in/mandar-pandit/).
 
 ## architecting-knowledge-java-wisdom
 This GitHub repository contains sample source code presented as README Markdown files, mirroring the LinkedIn posts, and is available for convenient reference anytime.
