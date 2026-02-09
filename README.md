@@ -22,9 +22,7 @@ This GitHub repository contains sample source code presented as README Markdown 
 
 ## 📚 Posts
 
-| # | Title | Topic | Published |
-|---|-------|-------|-----------|
-| 1 | [The Optional Mindset](posts/2026/february/01-optional-mindset.md) | Optional API | Feb 4, 2026 |
+[All Posts (2026)](posts/2026/all-posts-2026.md) | Post #1 Onwards...
 
 
 ---
