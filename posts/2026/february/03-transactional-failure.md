@@ -60,4 +60,34 @@ Self-invocation is transaction's silent killer. Use self-injection or move the l
 
 ---
 
+### ✅✅ Alternative: Extract to separate service (cleaner)
+
+*Community-recommended alternative (LinkedIn)*
+```java
+@Service
+@RequiredArgsConstructor
+public class UserService {
+    private final EmailService emailService;
+    
+    @Transactional
+    public void updateUser(User user) {
+        userRepository.save(user);
+        emailService.sendEmail(user);  // Different bean, proxy works ✓
+    }
+}
+
+@Service
+public class EmailService {
+    
+    @Transactional(propagation = Propagation.REQUIRED)
+    public void sendEmail(User user) {
+        // Properly part of the transaction
+    }
+}
+```
+
+*Note: This approach avoids circular dependency warnings present in self-injection patterns and follows better separation of concerns.*
+
+---
+
 **Tags:** `#Java` `#JavaWisdom` `#SpringFramework` `#Transactional` `#CleanCode` `#JavaDevelopment`
