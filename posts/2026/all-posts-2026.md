@@ -6,3 +6,4 @@
 | 2 | [Stream API - The Pipeline That Lies](february/02-stream-pipeline.md) | Stream Performance | Sun, 08 Feb 2026 |
 | 3 | [Transactional - The Silent Failure](february/03-transactional-failure.md) | Spring @Transactional | Wed, 11 Feb 2026 |
 | 4 | [Record Classes - More Than Boilerplate](february/04-record-classes.md) | Records & Validation | Sun, 15 Feb 2026 |
+| 5 | [Exception Handling - Fail Fast, Fail Clear](february/05-exception-handling.md) | ControllerAdvice | Wed, 18 Feb 2026 |
