@@ -29,4 +29,4 @@ This GitHub repository contains sample source code presented as README Markdown 
 
 **New posts every Wednesday & Sunday!**
 
-_*Note*_: All posts published on LinkedIn will be synced here in less than 10 days time.
+#*Note*#: All posts published on LinkedIn will be synced here in less than 10 days time.
