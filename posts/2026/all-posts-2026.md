@@ -7,3 +7,4 @@
 | 3 | [Transactional - The Silent Failure](february/03-transactional-failure.md) | Spring @Transactional | Wed, 11 Feb 2026 |
 | 4 | [Record Classes - More Than Boilerplate](february/04-record-classes.md) | Records & Validation | Sun, 15 Feb 2026 |
 | 5 | [Exception Handling - Fail Fast, Fail Clear](february/05-exception-handling.md) | ControllerAdvice | Wed, 18 Feb 2026 |
+| 6 | [Lazy Initialization - The Double-Edged Sword](february/06-lazy-initialization.md) | Thread Safety | Sun, 22 Feb 2026 |
