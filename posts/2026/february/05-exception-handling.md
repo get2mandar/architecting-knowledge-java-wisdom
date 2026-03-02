@@ -70,11 +70,11 @@ public class GlobalExceptionHandler {
 }
 ```
 
-## Why This Matters
+## 💡 Why This Matters
 
 Scattering try-catch blocks couples error handling to business logic. ControllerAdvice separates concerns - your controllers stay clean, exception handling stays consistent across the application.
 
-## Key Takeaway
+## 🎯 Key Takeaway
 
 Let exceptions bubble up to a centralized handler. Your business logic should read like a happy path, not a paranoid checklist.
 
