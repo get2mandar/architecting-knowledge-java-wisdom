@@ -1,5 +1,7 @@
 ## 📚 All Posts (2026)
 
+### February 2026
+
 | # | Title | Topic | Published |
 |---|-------|-------|-----------|
 | 1 | [The Optional Mindset](february/01-optional-mindset.md) | Optional API | Wed, 04 Feb 2026 |
@@ -8,3 +10,11 @@
 | 4 | [Record Classes - More Than Boilerplate](february/04-record-classes.md) | Records & Validation | Sun, 15 Feb 2026 |
 | 5 | [Exception Handling - Fail Fast, Fail Clear](february/05-exception-handling.md) | ControllerAdvice | Wed, 18 Feb 2026 |
 | 6 | [Lazy Initialization - The Double-Edged Sword](february/06-lazy-initialization.md) | Thread Safety | Sun, 22 Feb 2026 |
+| 7 | [CompletableFuture - Don't Block Your Future](february/07-completable-future.md) | Async Patterns | Wed, 25 Feb 2026 |
+
+
+### March 2026
+
+| # | Title | Topic | Published |
+|---|-------|-------|-----------|
+| 8 | [Spring Bean Scopes - The Lifecycle You Ignore](march/08-bean-scopes.md) | Bean Lifecycle | Sun, 1 Mar 2026 |
