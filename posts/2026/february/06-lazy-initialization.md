@@ -72,11 +72,11 @@ public class ConfigurationManager {
 }
 ```
 
-## Why This Matters
+## 💡 Why This Matters
 
 Lazy initialization without thread safety creates subtle race conditions. You'll never catch it in testing - only when production has concurrent load. The JVM's class loading guarantees make holder pattern both lazy AND safe.
 
-## Key Takeaway
+## 🎯 Key Takeaway
 
 Lazy is great, but naive lazy is a production time bomb. Use holder pattern or accept the cost of eager initialization.
 
