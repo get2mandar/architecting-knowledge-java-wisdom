@@ -18,3 +18,4 @@
 | # | Title | Topic | Published |
 |---|-------|-------|-----------|
 | 8 | [Spring Bean Scopes - The Lifecycle You Ignore](march/08-bean-scopes.md) | Bean Lifecycle | Sun, 1 Mar 2026 |
+| 9 | [Spring Data JPA - The N+1 Query Killer](march/09-jpa-n-plus-one.md) | JPA Performance | Wed, 4 Mar 2026 |
