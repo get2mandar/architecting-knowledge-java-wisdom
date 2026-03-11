@@ -20,3 +20,4 @@
 | 08 | [Spring Bean Scopes - The Lifecycle You Ignore](march/08-bean-scopes.md) | Bean Lifecycle | Sun, 1 Mar 2026 |
 | 09 | [Spring Data JPA - The N+1 Query Killer](march/09-jpa-n-plus-one.md) | JPA Performance | Wed, 4 Mar 2026 |
 | 10 | [The @Async Annotation That Does Nothing](march/10-async-annotation.md) | Spring @Async | Sun, 8 Mar 2026 |
+| 11 | [Immutability Patterns - Defense by Design](march/11-immutability-patterns.md) | Immutability & Thread Safety | Wed, 11 Mar 2026 |
