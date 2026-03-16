@@ -21,3 +21,4 @@
 | 09 | [Spring Data JPA - The N+1 Query Killer](march/09-jpa-n-plus-one.md) | JPA Performance | Wed, 4 Mar 2026 |
 | 10 | [The @Async Annotation That Does Nothing](march/10-async-annotation.md) | Spring @Async | Sun, 8 Mar 2026 |
 | 11 | [Immutability Patterns - Defense by Design](march/11-immutability-patterns.md) | Immutability & Thread Safety | Wed, 11 Mar 2026 |
+| 12 | [Spring Profiles - Beyond Dev and Prod](march/12-spring-profiles.md) | Spring Profiles | Sun, 15 Mar 2026 |
