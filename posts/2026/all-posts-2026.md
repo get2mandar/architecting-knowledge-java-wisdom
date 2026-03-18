@@ -22,3 +22,4 @@
 | 10 | [The @Async Annotation That Does Nothing](march/10-async-annotation.md) | Spring @Async | Sun, 8 Mar 2026 |
 | 11 | [Immutability Patterns - Defense by Design](march/11-immutability-patterns.md) | Immutability & Thread Safety | Wed, 11 Mar 2026 |
 | 12 | [Spring Profiles - Beyond Dev and Prod](march/12-spring-profiles.md) | Spring Profiles | Sun, 15 Mar 2026 |
+| 13 | [Sealed Classes - Controlling Your Hierarchy](march/13-sealed-classes.md) | Sealed Classes | Wed, 18 Mar 2026 |
