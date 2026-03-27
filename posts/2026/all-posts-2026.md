@@ -23,3 +23,5 @@
 | 11 | [Immutability Patterns - Defense by Design](march/11-immutability-patterns.md) | Immutability & Thread Safety | Wed, 11 Mar 2026 |
 | 12 | [Spring Profiles - Beyond Dev and Prod](march/12-spring-profiles.md) | Spring Profiles | Sun, 15 Mar 2026 |
 | 13 | [Sealed Classes - Controlling Your Hierarchy](march/13-sealed-classes.md) | Sealed Classes | Wed, 18 Mar 2026 |
+| 14 | [The Repository Pattern Spring Hides](march/14-repository-pattern.md) | Custom Repositories | Sun, 22 Mar 2026 |
+| 15 | [Pattern Matching - Switch on Steroids](march/15-pattern-matching.md) | Pattern Matching | Wed, 25 Mar 2026 |
