@@ -25,3 +25,4 @@
 | 13 | [Sealed Classes - Controlling Your Hierarchy](march/13-sealed-classes.md) | Sealed Classes | Wed, 18 Mar 2026 |
 | 14 | [The Repository Pattern Spring Hides](march/14-repository-pattern.md) | Custom Repositories | Sun, 22 Mar 2026 |
 | 15 | [Pattern Matching - Switch on Steroids](march/15-pattern-matching.md) | Pattern Matching | Wed, 25 Mar 2026 |
+| 16 | [Logging - The Signal in the Noise](march/16-structured-logging.md) | Structured Logging | Sun, 29 Mar 2026 |
