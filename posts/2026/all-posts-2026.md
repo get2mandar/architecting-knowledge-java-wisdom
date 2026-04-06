@@ -32,3 +32,4 @@
 | # | Title | Topic | Published |
 |---|-------|-------|-----------|
 | 17 | [Virtual Threads - Rethinking Concurrency](april/17-virtual-threads.md) | Virtual Threads | Wed, 1 Apr 2026 |
+| 18 | [Constructor Injection vs Field Injection](april/18-constructor-injection.md) | Dependency Injection | Wed, 1 Apr 2026 |
