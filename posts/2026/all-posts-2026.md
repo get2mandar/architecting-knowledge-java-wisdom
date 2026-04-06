@@ -17,9 +17,9 @@
 
 | #  | Title | Topic | Published |
 |----|-------|-------|-----------|
-| 08 | [Spring Bean Scopes - The Lifecycle You Ignore](march/08-bean-scopes.md) | Bean Lifecycle | Sun, 1 Mar 2026 |
-| 09 | [Spring Data JPA - The N+1 Query Killer](march/09-jpa-n-plus-one.md) | JPA Performance | Wed, 4 Mar 2026 |
-| 10 | [The @Async Annotation That Does Nothing](march/10-async-annotation.md) | Spring @Async | Sun, 8 Mar 2026 |
+| 08 | [Spring Bean Scopes - The Lifecycle You Ignore](march/08-bean-scopes.md) | Bean Lifecycle | Sun, 01 Mar 2026 |
+| 09 | [Spring Data JPA - The N+1 Query Killer](march/09-jpa-n-plus-one.md) | JPA Performance | Wed, 04 Mar 2026 |
+| 10 | [The @Async Annotation That Does Nothing](march/10-async-annotation.md) | Spring @Async | Sun, 08 Mar 2026 |
 | 11 | [Immutability Patterns - Defense by Design](march/11-immutability-patterns.md) | Immutability & Thread Safety | Wed, 11 Mar 2026 |
 | 12 | [Spring Profiles - Beyond Dev and Prod](march/12-spring-profiles.md) | Spring Profiles | Sun, 15 Mar 2026 |
 | 13 | [Sealed Classes - Controlling Your Hierarchy](march/13-sealed-classes.md) | Sealed Classes | Wed, 18 Mar 2026 |
@@ -31,5 +31,5 @@
 ### April 2026
 | # | Title | Topic | Published |
 |---|-------|-------|-----------|
-| 17 | [Virtual Threads - Rethinking Concurrency](april/17-virtual-threads.md) | Virtual Threads | Wed, 1 Apr 2026 |
-| 18 | [Constructor Injection vs Field Injection](april/18-constructor-injection.md) | Dependency Injection | Wed, 1 Apr 2026 |
+| 17 | [Virtual Threads - Rethinking Concurrency](april/17-virtual-threads.md) | Virtual Threads | Wed, 01 Apr 2026 |
+| 18 | [Constructor Injection vs Field Injection](april/18-constructor-injection.md) | Dependency Injection | Sun, 05 Apr 2026 |
