@@ -33,3 +33,4 @@
 |---|-------|-------|-----------|
 | 17 | [Virtual Threads - Rethinking Concurrency](april/17-virtual-threads.md) | Virtual Threads | Wed, 01 Apr 2026 |
 | 18 | [Constructor Injection vs Field Injection](april/18-constructor-injection.md) | Dependency Injection | Sun, 05 Apr 2026 |
+| 19 | [Text Blocks - Readable Strings Finally](april/19-text-blocks.md) | Text Blocks | Wed, 08 Apr 2026 |
