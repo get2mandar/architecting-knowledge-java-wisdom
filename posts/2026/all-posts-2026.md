@@ -36,3 +36,4 @@
 | 19 | [Text Blocks - Readable Strings Finally](april/19-text-blocks.md) | Text Blocks | Wed, 08 Apr 2026 |
 | 20 | [Event-Driven Architecture in Spring](april/20-event-driven-architecture.md) | Event-Driven Architecture | Sun, 12 Apr 2026 |
 | 21 | [Validator Pattern - Beyond Bean Validation](april/21-validator-pattern.md) | Bean Validation Patterns | Wed, 15 Apr 2026 |
+| 22 | [Spring Security Filters - The Chain Explained](april/22-spring-security-filters.md) | Spring Security and Filter Chain | Sun, 19 Apr 2026 |
