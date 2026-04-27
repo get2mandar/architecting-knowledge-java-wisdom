@@ -38,3 +38,4 @@
 | 21 | [Validator Pattern - Beyond Bean Validation](april/21-validator-pattern.md) | Bean Validation Patterns | Wed, 15 Apr 2026 |
 | 22 | [Spring Security Filters - The Chain Explained](april/22-spring-security-filters.md) | Spring Security and Filter Chain | Sun, 19 Apr 2026 |
 | 23 | [Method References - When to Use vs Lambdas](april/23-method-references.md) | Method References and Lambda Expressions | Wed, 22 Apr 2026 |
+| 24 | [JPA Entity Lifecycle - States You Should Know](april/24-jpa-entity-lifecycle.md) | Entity Lifecycle and Persistence Context | Sun, 26 Apr 2026 |
