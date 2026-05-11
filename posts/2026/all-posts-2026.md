@@ -48,3 +48,4 @@
 | 26 | [Spring Boot Auto-Configuration Demystified](may/26-spring-boot-auto-configuration.md) | Spring Boot Auto-Configuration and Conditional Beans | Sun, 03 May 2026 |
 | 27 | [Functional Interfaces - Beyond the Basics](may/27-functional-interfaces.md) | Functional Interfaces - Lambda Expressions - Java 8 | Wed, 06 May 2026 |
 | 28 | [Database Transactions - ACID in Practice](may/28-database-transactions.md) | Database Transactions - ACID Properties | Sun, 10 May 2026 |
+| 29 | [Enums - More Than Just Constants](may/29-enums.md) | Java Enums - Advanced Enum Features | Wed, 13 May 2026 |
