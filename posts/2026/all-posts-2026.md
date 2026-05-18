@@ -50,3 +50,4 @@
 | 28 | [Database Transactions - ACID in Practice](may/28-database-transactions.md) | Database Transactions - ACID Properties | Sun, 10 May 2026 |
 | 29 | [Enums - More Than Just Constants](may/29-enums.md) | Java Enums - Advanced Enum Features | Wed, 13 May 2026 |
 | 30 | [Spring AOP - Aspects Without the Mystery](may/30-spring-aop.md) | Spring AOP - Aspects - Pointcuts - Advice | Sun, 17 May 2026 |
+| 31 | [Stream Collectors - Beyond toList()](may/31-stream-collectors.md) | Java Stream API and Collectors | Wed, 20 May 2026 |
