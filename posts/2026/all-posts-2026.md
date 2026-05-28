@@ -53,3 +53,4 @@
 | 31 | [Stream Collectors - Beyond toList()](may/31-stream-collectors.md) | Java Stream API and Collectors | Wed, 20 May 2026 |
 | 32 | [Spring Data JPA Projections - Query Only What You Need](may/32-spring-data-jpa-projections.md) | Spring Data JPA - Projections - Performance Optimization | Sun, 24 May 2026 |
 | 33 | [Generics - Type Safety Without the Headache](may/33-generics.md) | Java Generics - Type Safety - Wildcards - PECS Principle | Wed, 27 May 2026 |
+| 34 | [Spring Boot Actuator - Production-Ready Endpoints](may/34-spring-boot-actuator.md) | Spring Boot Actuator - Monitoring - Health Checks - Metrics | Sun, 31 May 2026 |
