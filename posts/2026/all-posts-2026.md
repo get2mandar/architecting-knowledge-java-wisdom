@@ -59,3 +59,4 @@
 | # | Title | Topic | Published |
 |---|-------|-------|-----------|
 | 35 | [Java Memory Model - Happens-Before Explained](june/35-java-memory-model.md) | Java Memory Model - Happens-Before - Visibility - Concurrency | Wed, 03 Jun 2026 |
+| 36 | [@Transactional Propagation - When Transactions Nest](june/36-transactional-propagation.md) | Spring @Transactional - Propagation Levels - Transaction Management | Sun, 07 Jun 2026 |
