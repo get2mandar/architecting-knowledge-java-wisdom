@@ -60,3 +60,5 @@
 |---|-------|-------|-----------|
 | 35 | [Java Memory Model - Happens-Before Explained](june/35-java-memory-model.md) | Java Memory Model - Happens-Before - Visibility - Concurrency | Wed, 03 Jun 2026 |
 | 36 | [@Transactional Propagation - When Transactions Nest](june/36-transactional-propagation.md) | Spring @Transactional - Propagation Levels - Transaction Management | Sun, 07 Jun 2026 |
+| 37 | [Reflection API - When and When Not to Use](june/37-reflection-api.md) | Java Reflection - Runtime Inspection - Security - Performance | Wed, 10 Jun 2026 |
+| 38 | [Spring WebClient - Modern HTTP Client](june/38-spring-webclient.md) | Spring WebClient - Reactive HTTP - Non-Blocking - Resilience | Sun, 14 Jun 2026 |
