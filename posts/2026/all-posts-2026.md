@@ -64,4 +64,5 @@
 | 38 | [Spring WebClient - Modern HTTP Client](june/38-spring-webclient.md) | Spring WebClient - Reactive HTTP - Non-Blocking - Resilience | Sun, 14 Jun 2026 |
 | 39 | [Observability - Beyond Logs (Metrics, Traces, and Distributed Tracing)](june/39-observability.md) | Observability - OpenTelemetry - Distributed Tracing - Micrometer | Wed, 17 Jun 2026 |
 | 40 | [Cache Abstraction - @Cacheable Done Right](june/40-cache-abstraction.md) | Spring Cache Abstraction - @Cacheable - @CacheEvict - Cache Managers | Sun, 21 Jun 2026 |
-| 40 | [Java Streams - Gatherers (Custom Stream Operations)](june/41-java-stream-gatherers.md) | Java Streams - Gatherers - Custom Intermediate Operations - Java 22+ | Wed, 24 Jun 2026 |
+| 41 | [Java Streams - Gatherers (Custom Stream Operations)](june/41-java-stream-gatherers.md) | Java Streams - Gatherers - Custom Intermediate Operations - Java 22+ | Wed, 24 Jun 2026 |
+| 42 | [Message Queues - Event Streaming with Kafka](june/42-message-queues-kafka.md) | Apache Kafka - Event Streaming - Message Queues - Distributed Systems | Sun, 28 Jun 2026 |
