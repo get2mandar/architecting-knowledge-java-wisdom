@@ -66,3 +66,8 @@
 | 40 | [Cache Abstraction - @Cacheable Done Right](june/40-cache-abstraction.md) | Spring Cache Abstraction - @Cacheable - @CacheEvict - Cache Managers | Sun, 21 Jun 2026 |
 | 41 | [Java Streams - Gatherers (Custom Stream Operations)](june/41-java-stream-gatherers.md) | Java Streams - Gatherers - Custom Intermediate Operations - Java 22+ | Wed, 24 Jun 2026 |
 | 42 | [Message Queues - Event Streaming with Kafka](june/42-message-queues-kafka.md) | Apache Kafka - Event Streaming - Message Queues - Distributed Systems | Sun, 28 Jun 2026 |
+
+### July 2026
+| # | Title | Topic | Published |
+|---|-------|-------|-----------|
+| 43 | [Spring AI - Building LLM-Powered Applications](june/43-spring-ai.md) | Spring AI - Large Language Models | Wed, 01 Jul 2026 |
