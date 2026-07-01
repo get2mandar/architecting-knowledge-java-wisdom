@@ -70,4 +70,4 @@
 ### July 2026
 | # | Title | Topic | Published |
 |---|-------|-------|-----------|
-| 43 | [Spring AI - Building LLM-Powered Applications](june/43-spring-ai.md) | Spring AI - Large Language Models | Wed, 01 Jul 2026 |
+| 43 | [Spring AI - Building LLM-Powered Applications](july/43-spring-ai.md) | Spring AI - Large Language Models | Wed, 01 Jul 2026 |
