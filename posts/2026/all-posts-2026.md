@@ -71,3 +71,4 @@
 | # | Title | Topic | Published |
 |---|-------|-------|-----------|
 | 43 | [Spring AI - Building LLM-Powered Applications](july/43-spring-ai.md) | Spring AI - Large Language Models | Wed, 01 Jul 2026 |
+| 44 | [LangChain4j - Java Chains for AI Workflows](july/44-langchain4j.md) | LangChain4j - AI Agents - RAG - Memory Management | Sun, 05 Jul 2026 |
