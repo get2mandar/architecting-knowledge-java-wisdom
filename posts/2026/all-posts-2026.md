@@ -75,3 +75,4 @@
 | 45 | [Vector Databases - Embedding Search with Spring AI](july/45-vector-databases.md) | Vector Databases - Embeddings - Similarity Search - pgvector - Pinecone | Wed, 08 Jul 2026 |
 | 46 | [Prompt Engineering - Structured Outputs in Java](july/46-prompt-engineering.md) | Prompt Engineering - Structured Outputs - JSON Schema - Type Safety | Sun, 12 Jul 2026 |
 | 47 | [RAG Pattern - Retrieval-Augmented Generation in Spring](july/47-rag-pattern.md) | AG - Retrieval-Augmented Generation - Document Chunking - Spring AI | Wed, 15 Jul 2026 |
+| 48 | [AI Function Calling - Integrating Tools with LLMs](july/48-ai-function-calling.md) | Function Calling - Tool Use - OpenAI API - LLM Integration | Sun, 19 Jul 2026 |
