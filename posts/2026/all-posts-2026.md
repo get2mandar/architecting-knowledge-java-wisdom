@@ -76,3 +76,4 @@
 | 46 | [Prompt Engineering - Structured Outputs in Java](july/46-prompt-engineering.md) | Prompt Engineering - Structured Outputs - JSON Schema - Type Safety | Sun, 12 Jul 2026 |
 | 47 | [RAG Pattern - Retrieval-Augmented Generation in Spring](july/47-rag-pattern.md) | AG - Retrieval-Augmented Generation - Document Chunking - Spring AI | Wed, 15 Jul 2026 |
 | 48 | [AI Function Calling - Integrating Tools with LLMs](july/48-ai-function-calling.md) | Function Calling - Tool Use - OpenAI API - LLM Integration | Sun, 19 Jul 2026 |
+| 49 | [Streaming AI Responses - Server-Sent Events in Spring](july/49-streaming-ai-responses.md) | Server-Sent Events - Spring WebFlux - Real-Time Streaming - Reactive | Wed, 22 Jul 2026 |
