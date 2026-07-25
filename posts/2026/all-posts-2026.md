@@ -77,3 +77,4 @@
 | 47 | [RAG Pattern - Retrieval-Augmented Generation in Spring](july/47-rag-pattern.md) | AG - Retrieval-Augmented Generation - Document Chunking - Spring AI | Wed, 15 Jul 2026 |
 | 48 | [AI Function Calling - Integrating Tools with LLMs](july/48-ai-function-calling.md) | Function Calling - Tool Use - OpenAI API - LLM Integration | Sun, 19 Jul 2026 |
 | 49 | [Streaming AI Responses - Server-Sent Events in Spring](july/49-streaming-ai-responses.md) | Server-Sent Events - Spring WebFlux - Real-Time Streaming - Reactive | Wed, 22 Jul 2026 |
+| 50 | [Embedding Models - Semantic Search with pgvector](july/50-embedding-models-semantic-search.md) | Embedding Models - Text-Embedding-3 - Semantic Search - pgvector Integration | Sun, 26 Jul 2026 |
