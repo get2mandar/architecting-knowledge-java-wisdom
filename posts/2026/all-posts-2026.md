@@ -79,3 +79,8 @@
 | 49 | [Streaming AI Responses - Server-Sent Events in Spring](july/49-streaming-ai-responses.md) | Server-Sent Events - Spring WebFlux - Real-Time Streaming - Reactive | Wed, 22 Jul 2026 |
 | 50 | [Embedding Models - Semantic Search with pgvector](july/50-embedding-models-semantic-search.md) | Embedding Models - Text-Embedding-3 - Semantic Search - pgvector Integration | Sun, 26 Jul 2026 |
 | 51 | [AI Observability - Tracing LLM Calls with OpenTelemetry](july/51-ai-observability-opentelemetry.md) | Spring Boot - OpenTelemetry - LLM Observability - Distributed Tracing | Wed, 29 Jul 2026 |
+
+### August 2026
+| # | Title | Topic | Published |
+|---|-------|-------|-----------|
+| 52 | [Feature Freshness - The Hidden Consistency Problem in AI Systems](august/52-feature-freshness.md) | Feature Freshness - Data Consistency - Feature Stores - Batch vs Streaming | Sun, 02 Aug 2026 |
