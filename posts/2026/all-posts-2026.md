@@ -84,3 +84,4 @@
 | # | Title | Topic | Published |
 |---|-------|-------|-----------|
 | 52 | [Feature Freshness - The Hidden Consistency Problem in AI Systems](august/52-feature-freshness.md) | Feature Freshness - Data Consistency - Feature Stores - Batch vs Streaming | Sun, 02 Aug 2026 |
+| 53 | [Training-Serving Skew - Why Models Fail in Production](august/53-training-serving-skew.md) | Training-Serving Skew - Feature Consistency - Model Degradation - Unified Pipelines | Wed, 05 Aug 2026 |
