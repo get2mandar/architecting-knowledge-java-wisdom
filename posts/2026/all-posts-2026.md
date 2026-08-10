@@ -85,3 +85,5 @@
 |---|-------|-------|-----------|
 | 52 | [Feature Freshness - The Hidden Consistency Problem in AI Systems](august/52-feature-freshness.md) | Feature Freshness - Data Consistency - Feature Stores - Batch vs Streaming | Sun, 02 Aug 2026 |
 | 53 | [Training-Serving Skew - Why Models Fail in Production](august/53-training-serving-skew.md) | Training-Serving Skew - Feature Consistency - Model Degradation - Unified Pipelines | Wed, 05 Aug 2026 |
+| 54 | [The Dual Write Problem in AI Feature Pipelines](august/54-dual-write-problem.md) | Dual Write Problem - Consistency - Transactional Outbox - Change Data Capture | Sun, 09 Aug 2026 |
+| 55 | [Data Drift vs Concept Drift - The Architecture Behind Model Decay](august/55-data-drift-concept-drift.md) | Data Drift - Concept Drift - Model Degradation - Drift Detection | Wed, 12 Aug 2026 |
