@@ -87,3 +87,4 @@
 | 53 | [Training-Serving Skew - Why Models Fail in Production](august/53-training-serving-skew.md) | Training-Serving Skew - Feature Consistency - Model Degradation - Unified Pipelines | Wed, 05 Aug 2026 |
 | 54 | [The Dual Write Problem in AI Feature Pipelines](august/54-dual-write-problem.md) | Dual Write Problem - Consistency - Transactional Outbox - Change Data Capture | Sun, 09 Aug 2026 |
 | 55 | [Data Drift vs Concept Drift - The Architecture Behind Model Decay](august/55-data-drift-concept-drift.md) | Data Drift - Concept Drift - Model Degradation - Drift Detection | Wed, 12 Aug 2026 |
+| 56 | [Feature Engineering in Production - From Notebook to Pipeline](august/56-feature-engineering-production.md) | Feature Engineering - Pandas to Spark - Distributed Processing - Scalability | Sun, 16 Aug 2026 |
