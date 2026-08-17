@@ -88,3 +88,4 @@
 | 54 | [The Dual Write Problem in AI Feature Pipelines](august/54-dual-write-problem.md) | Dual Write Problem - Consistency - Transactional Outbox - Change Data Capture | Sun, 09 Aug 2026 |
 | 55 | [Data Drift vs Concept Drift - The Architecture Behind Model Decay](august/55-data-drift-concept-drift.md) | Data Drift - Concept Drift - Model Degradation - Drift Detection | Wed, 12 Aug 2026 |
 | 56 | [Feature Engineering in Production - From Notebook to Pipeline](august/56-feature-engineering-production.md) | Feature Engineering - Pandas to Spark - Distributed Processing - Scalability | Sun, 16 Aug 2026 |
+| 57 | [Data Validation and Quality Checks - Preventing Bad Data](august/57-data-validation-quality-checks.md) | Data Validation - Great Expectations - Schema Enforcement - Data Contracts | Wed, 19 Aug 2026 |
