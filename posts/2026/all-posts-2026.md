@@ -89,3 +89,4 @@
 | 55 | [Data Drift vs Concept Drift - The Architecture Behind Model Decay](august/55-data-drift-concept-drift.md) | Data Drift - Concept Drift - Model Degradation - Drift Detection | Wed, 12 Aug 2026 |
 | 56 | [Feature Engineering in Production - From Notebook to Pipeline](august/56-feature-engineering-production.md) | Feature Engineering - Pandas to Spark - Distributed Processing - Scalability | Sun, 16 Aug 2026 |
 | 57 | [Data Validation and Quality Checks - Preventing Bad Data](august/57-data-validation-quality-checks.md) | Data Validation - Great Expectations - Schema Enforcement - Data Contracts | Wed, 19 Aug 2026 |
+| 58 | [Label Quality and Annotation Strategies - The Foundation of ML](august/58-label-quality-annotation.md) | Label Quality - Annotation Strategies - Inter-Rater Agreement - Active Learning | Sun, 23 Aug 2026 |
