@@ -92,3 +92,8 @@
 | 58 | [Label Quality and Annotation Strategies - The Foundation of ML](august/58-label-quality-annotation.md) | Label Quality - Annotation Strategies - Inter-Rater Agreement - Active Learning | Sun, 23 Aug 2026 |
 | 59 | [Handling Imbalanced Data - Sampling, Weighting, and Rebalancing](august/59-handling-imbalanced-data.md) | Imbalanced Data - SMOTE - Cost-Sensitive Learning - Ensemble Methods | Wed, 26 Aug 2026 |
 | 60 | [Data Privacy and Governance in ML Systems - Compliance and Ethics](august/60-data-privacy-governance.md) | Data Privacy - GDPR - Audit Trails - Model Lineage - Compliance | Sun, 30 Aug 2026 |
+
+### September 2026
+| # | Title | Topic | Published |
+|---|-------|-------|-----------|
+| 61 | [Event Ordering in Distributed AI Systems - When Sequence Matters](september/61-event-ordering-distributed-ai-systems.md) | Event Ordering - Causality - Lamport Clocks - Vector Clocks - Distributed Tracing | Wed, 02 Sep 2026 |
