@@ -99,3 +99,4 @@
 | 61 | [Event Ordering in Distributed AI Systems - When Sequence Matters](september/61-event-ordering-distributed-ai-systems.md) | Event Ordering - Causality - Lamport Clocks - Vector Clocks - Distributed Tracing | Wed, 02 Sep 2026 |
 | 62 | [Exactly-Once Semantics in Streaming Features - Avoiding Duplicate Processing](september/62-exactly-once-semantics-streaming.md) | Exactly-Once Semantics - Idempotent Producers - Transactions - Deduplication | Sun, 06 Sep 2026 |
 | 63 | [Idempotency in AI Pipelines - Designing for Safe Retries](september/63-idempotency-in-ai-pipelines.md) | Idempotency - Safe Retries - Feature Pipelines - Replay Safety | Wed, 09 Sep 2026 |
+| 64 | [Model Serving at Scale - Inference Latency Under Load](september/64-model-serving-at-scale.md) | Model Serving - Batching - Latency - Throughput - GPU Utilization | Sun, 13 Sep 2026 |
