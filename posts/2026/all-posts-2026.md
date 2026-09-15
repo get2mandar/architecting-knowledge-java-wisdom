@@ -100,3 +100,4 @@
 | 62 | [Exactly-Once Semantics in Streaming Features - Avoiding Duplicate Processing](september/62-exactly-once-semantics-streaming.md) | Exactly-Once Semantics - Idempotent Producers - Transactions - Deduplication | Sun, 06 Sep 2026 |
 | 63 | [Idempotency in AI Pipelines - Designing for Safe Retries](september/63-idempotency-in-ai-pipelines.md) | Idempotency - Safe Retries - Feature Pipelines - Replay Safety | Wed, 09 Sep 2026 |
 | 64 | [Model Serving at Scale - Inference Latency Under Load](september/64-model-serving-at-scale.md) | Model Serving - Batching - Latency - Throughput - GPU Utilization | Sun, 13 Sep 2026 |
+| 65 | [Circuit Breakers and Graceful Degradation - Preventing Cascade Failures](september/65-circuit-breakers-graceful-degradation.md) | Circuit Breaker Pattern - Graceful Degradation - Cascading Failures - Resilience | Wed, 16 Sep 2026 |
