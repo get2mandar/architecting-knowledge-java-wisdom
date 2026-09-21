@@ -102,3 +102,4 @@
 | 64 | [Model Serving at Scale - Inference Latency Under Load](september/64-model-serving-at-scale.md) | Model Serving - Batching - Latency - Throughput - GPU Utilization | Sun, 13 Sep 2026 |
 | 65 | [Circuit Breakers and Graceful Degradation - Preventing Cascade Failures](september/65-circuit-breakers-graceful-degradation.md) | Circuit Breaker Pattern - Graceful Degradation - Cascading Failures - Resilience | Wed, 16 Sep 2026 |
 | 66 | [Feature Staleness vs Computation Time - The Latency Trade-off](september/66-feature-staleness-latency-tradeoff.md) | Feature Freshness - Latency Trade-offs - Caching - On-Demand Computation | Sun, 20 Sep 2026 |
+| 67 | [Distributed Consensus in Model Training - Handling Partial Failures](september/67-distributed-consensus-model-training.md) | Distributed Training - Parameter Servers - Consensus - Stragglers - Byzantine Resilience | Wed, 23 Sep 2026 |
