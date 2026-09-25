@@ -103,3 +103,4 @@
 | 65 | [Circuit Breakers and Graceful Degradation - Preventing Cascade Failures](september/65-circuit-breakers-graceful-degradation.md) | Circuit Breaker Pattern - Graceful Degradation - Cascading Failures - Resilience | Wed, 16 Sep 2026 |
 | 66 | [Feature Staleness vs Computation Time - The Latency Trade-off](september/66-feature-staleness-latency-tradeoff.md) | Feature Freshness - Latency Trade-offs - Caching - On-Demand Computation | Sun, 20 Sep 2026 |
 | 67 | [Distributed Consensus in Model Training - Handling Partial Failures](september/67-distributed-consensus-model-training.md) | Distributed Training - Parameter Servers - Consensus - Stragglers - Byzantine Resilience | Wed, 23 Sep 2026 |
+| 68 | [Failure Recovery Without Retries - Bulkheads and Fallbacks](september/68-failure-recovery-bulkheads-fallbacks.md) | Bulkheads - Fallbacks - Resource Isolation - Load Shedding | Sun, 27 Sep 2026 |
