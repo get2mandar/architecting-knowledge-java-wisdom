@@ -105,3 +105,9 @@
 | 67 | [Distributed Consensus in Model Training - Handling Partial Failures](september/67-distributed-consensus-model-training.md) | Distributed Training - Parameter Servers - Consensus - Stragglers - Byzantine Resilience | Wed, 23 Sep 2026 |
 | 68 | [Failure Recovery Without Retries - Bulkheads and Fallbacks](september/68-failure-recovery-bulkheads-fallbacks.md) | Bulkheads - Fallbacks - Resource Isolation - Load Shedding | Sun, 27 Sep 2026 |
 | 69 | [Model Versioning in Production - Blue-Green and Canary Deployments](september/69-model-versioning-blue-green-canary.md) | Model Versioning - Blue-Green Deployment - Canary Releases - Rollback Strategy | Wed, 30 Sep 2026 |
+
+### October 2026
+| # | Title | Topic | Published |
+|---|-------|-------|-----------|
+| 70 | [Observability Across Distributed Boundaries - Tracing AI Requests End-to-End](october/70-observability-distributed-tracing.md) | Distributed Tracing - Observability - Correlation IDs - Latency Attribution | Sun, 04 Oct 2026 |
+| 71 | [Feature Store Design - Offline vs Online Trade-offs in Production](october/71-feature-store-offline-online-tradeoffs.md) | Feature Stores - Offline/Online Consistency - Training-Serving Skew - Data Architecture | Wed, 07 Oct 2026 |
