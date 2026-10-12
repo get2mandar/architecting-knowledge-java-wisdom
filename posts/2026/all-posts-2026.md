@@ -111,3 +111,5 @@
 |---|-------|-------|-----------|
 | 70 | [Observability Across Distributed Boundaries - Tracing AI Requests End-to-End](october/70-observability-distributed-tracing.md) | Distributed Tracing - Observability - Correlation IDs - Latency Attribution | Sun, 04 Oct 2026 |
 | 71 | [Feature Store Design - Offline vs Online Trade-offs in Production](october/71-feature-store-offline-online-tradeoffs.md) | Feature Stores - Offline/Online Consistency - Training-Serving Skew - Data Architecture | Wed, 07 Oct 2026 |
+| 72 | [Feature Discovery and Governance - Building Searchable Feature Catalogs](october/72-feature-discovery-governance-catalogs.md) | Feature Catalogs - Metadata Management - Feature Reuse - Governance | Sun, 11 Oct 2026 |
+| 73 | [Feature Store Operations - Monitoring Data Quality at Scale](october/73-feature-store-data-quality-monitoring.md) | Data Quality Monitoring - Feature Drift - Anomaly Detection - Operational Alerting | Wed, 14 Oct 2026 |
