@@ -8,7 +8,7 @@
  
 ## The Problem
  
-Fraud patterns change weekly—new scam tactics, new merchant categories being exploited, seasonal shopping shifts. Your model is retrained monthly on a fixed batch of historical data. By week three of the cycle, it's confidently scoring transactions using patterns that no longer match reality. Retraining faster helps, but a monthly batch job can never truly keep pace with a threat that adapts daily. The model isn't wrong because it's a bad model—it's wrong because the world moved and the model didn't.
+Fraud patterns change weekly: new scam tactics, new merchant categories being exploited, seasonal shopping shifts. Your model is retrained monthly on a fixed batch of historical data. By week three of the cycle, it's confidently scoring transactions using patterns that no longer match reality. Retraining faster helps, but a monthly batch job can never truly keep pace with a threat that adapts daily. The model isn't wrong because it's a bad model, it's wrong because the world moved and the model didn't.
  
 ## Code Example
  
@@ -122,11 +122,11 @@ public class HybridLearningOrchestrator {
  
 ## Why This Matters
  
-Batch retraining assumes the world holds still between training cycles, which is exactly the assumption fraud, market shifts, and user behavior violate constantly. Online learning closes that gap by updating the model continuously as new labeled outcomes arrive, so adaptation happens in near real time rather than at the next scheduled retrain. Concept drift detection provides the trigger mechanism—without measuring accuracy degradation directly, you're guessing whether the model still fits reality. The hybrid approach acknowledges a real risk with pure online learning: it can overfit to a burst of noisy recent labels. Combining fast incremental updates with periodic, properly validated full retrains gets adaptability without sacrificing rigor.
+Batch retraining assumes the world holds still between training cycles, which is exactly the assumption fraud, market shifts, and user behavior violate constantly. Online learning closes that gap by updating the model continuously as new labeled outcomes arrive, so adaptation happens in near real time rather than at the next scheduled retrain. Concept drift detection provides the trigger mechanism, without measuring accuracy degradation directly, you're guessing whether the model still fits reality. The hybrid approach acknowledges a real risk with pure online learning: it can overfit to a burst of noisy recent labels. Combining fast incremental updates with periodic, properly validated full retrains gets adaptability without sacrificing rigor.
  
 ## Key Takeaway
  
-A model trained once and left running assumes a static world that doesn't exist. Use online learning to adapt incrementally as labeled outcomes arrive, rather than waiting for the next batch cycle. Detect concept drift explicitly by monitoring accuracy against a baseline, and let drift severity drive the response—minor drift adjusts the learning rate, severe drift triggers a full retrain. Combine online adaptation with periodic validated retraining so speed doesn't come at the cost of correctness.
+A model trained once and left running assumes a static world that doesn't exist. Use online learning to adapt incrementally as labeled outcomes arrive, rather than waiting for the next batch cycle. Detect concept drift explicitly by monitoring accuracy against a baseline, and let drift severity drive the response, minor drift adjusts the learning rate, severe drift triggers a full retrain. Combine online adaptation with periodic validated retraining so speed doesn't come at the cost of correctness.
  
 ---
  
