@@ -8,7 +8,7 @@
  
 ## The Problem
  
-Fraud detection needs "transactions in the last 5 minutes" as a feature. Computing that with a batch job means running a query every few minutes against a growing table—expensive, and always a few minutes stale by the time it's used. The feature that matters most for catching fraud in the act is exactly the one batch processing is worst at delivering: something fresh, continuously updated, computed as events actually arrive.
+Fraud detection needs "transactions in the last 5 minutes" as a feature. Computing that with a batch job means running a query every few minutes against a growing table expensive, and always a few minutes stale by the time it's used. The feature that matters most for catching fraud in the act is exactly the one batch processing is worst at delivering: something fresh, continuously updated, computed as events actually arrive.
  
 ## Code Example
  
@@ -116,7 +116,7 @@ public class CountAggregator implements AggregateFunction<TransactionEvent, Long
  
 ## Why This Matters
  
-Batch polling forces a trade-off between freshness and cost: poll more often and the query gets more expensive, poll less often and the feature gets staler. Kafka removes the polling model entirely—computation is triggered by the event itself, so latency is bounded by processing time, not by a schedule. Flink's windowed aggregation handles the hard part correctly: maintaining a continuously updated 5-minute window without recomputing from scratch on every event, and doing so using event time rather than arrival time, which matters when events arrive out of order across a distributed system. Watermarks give you an explicit, tunable answer to "how late is too late," instead of silently getting wrong answers from unordered data.
+Batch polling forces a trade-off between freshness and cost: poll more often and the query gets more expensive, poll less often and the feature gets staler. Kafka removes the polling model entirely, computation is triggered by the event itself, so latency is bounded by processing time, not by a schedule. Flink's windowed aggregation handles the hard part correctly: maintaining a continuously updated 5-minute window without recomputing from scratch on every event, and doing so using event time rather than arrival time, which matters when events arrive out of order across a distributed system. Watermarks give you an explicit, tunable answer to "how late is too late," instead of silently getting wrong answers from unordered data.
  
 ## Key Takeaway
  
