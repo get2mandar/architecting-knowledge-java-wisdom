@@ -8,7 +8,7 @@
 
 ## The Problem
 
-An upstream schema change silently turns a currency field from dollars to cents. No exception is thrown—the pipeline runs, the feature computes, the model serves predictions. Except every transaction now looks 100x larger, and the fraud model starts flagging nearly everyone. Nobody notices for six hours because the pipeline "succeeded." A feature store that only monitors uptime, not data quality, will tell you everything is fine while the numbers feeding your models quietly go wrong.
+An upstream schema change silently turns a currency field from dollars to cents. No exception is thrown: the pipeline runs, the feature computes, the model serves predictions. Except every transaction now looks 100x larger, and the fraud model starts flagging nearly everyone. Nobody notices for six hours because the pipeline "succeeded." A feature store that only monitors uptime, not data quality, will tell you everything is fine while the numbers feeding your models quietly go wrong.
 
 ## Code Example
 
@@ -121,7 +121,7 @@ public class QualityGatedFeaturePipeline {
 
 ## Why This Matters
 
-Pipeline monitoring answers "did the job run?" Data quality monitoring answers the more important question: "is the data correct?" Statistical validation catches values outside historically reasonable bounds before they reach a model. Drift detection catches slower, subtler shifts—a feature whose distribution has quietly moved away from what the model was trained on, even if no single value looks obviously wrong. Circuit-breaking on quality failure is what turns detection into protection: instead of writing suspect data and hoping someone notices, the pipeline refuses to serve it and falls back to a known-good value while raising an alert.
+Pipeline monitoring answers "did the job run?" Data quality monitoring answers the more important question: "is the data correct?" Statistical validation catches values outside historically reasonable bounds before they reach a model. Drift detection catches slower, subtler shifts, a feature whose distribution has quietly moved away from what the model was trained on, even if no single value looks obviously wrong. Circuit-breaking on quality failure is what turns detection into protection: instead of writing suspect data and hoping someone notices, the pipeline refuses to serve it and falls back to a known-good value while raising an alert.
 
 ## Key Takeaway
 
