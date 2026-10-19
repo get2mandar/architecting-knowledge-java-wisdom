@@ -8,7 +8,7 @@
  
 ## The Problem
  
-A user reports a slow recommendation. The request touched the feature pipeline, three model services, and a ranking service—five log files, five separate timestamps, no shared identifier. You cannot tell which hop added the 3-second delay. Each service is independently instrumented, but the request itself has no continuous thread stitching its journey together. Without a trace, "it's slow somewhere" is the most precise diagnosis you can offer.
+A user reports a slow recommendation. The request touched the feature pipeline, three model services, and a ranking service: five log files, five separate timestamps, no shared identifier. You cannot tell which hop added the 3-second delay. Each service is independently instrumented, but the request itself has no continuous thread stitching its journey together. Without a trace, "it's slow somewhere" is the most precise diagnosis you can offer.
  
 ## Code Example
  
@@ -156,7 +156,7 @@ Distributed systems fail your intuition about latency because no single log tell
  
 ## Key Takeaway
  
-Every request that crosses a service boundary needs a propagated trace ID from the first hop to the last. Instrument spans around each meaningful unit of work, not just at the service entry point. Attribute latency per stage so bottlenecks are visible without needing to a manually stitch logs together. Observability isn't logging more—it's making the request's journey reconstructable.
+Every request that crosses a service boundary needs a propagated trace ID from the first hop to the last. Instrument spans around each meaningful unit of work, not just at the service entry point. Attribute latency per stage so bottlenecks are visible without needing to a manually stitch logs together. Observability isn't logging more, it's making the request's journey reconstructable.
  
 ---
  
