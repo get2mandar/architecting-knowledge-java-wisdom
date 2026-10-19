@@ -114,3 +114,4 @@
 | 72 | [Feature Discovery and Governance - Building Searchable Feature Catalogs](october/72-feature-discovery-governance-catalogs.md) | Feature Catalogs - Metadata Management - Feature Reuse - Governance | Sun, 11 Oct 2026 |
 | 73 | [Feature Store Operations - Monitoring Data Quality at Scale](october/73-feature-store-data-quality-monitoring.md) | Data Quality Monitoring - Feature Drift - Anomaly Detection - Operational Alerting | Wed, 14 Oct 2026 |
 | 74 | [Streaming Feature Computation - Apache Kafka and Flink for ML](october/74-streaming-feature-computation-kafka-flink.md) | Stream Processing - Apache Kafka - Apache Flink - Windowed Aggregation | Sun, 18 Oct 2026 |
+| 75 | [Streaming Model Training - Online Learning and Concept Adaptation](october/75-streaming-model-training-online-learning.md) | Online Learning - Concept Drift - Incremental Model Updates - Adaptive Systems | Wed, 21 Oct 2026 |
