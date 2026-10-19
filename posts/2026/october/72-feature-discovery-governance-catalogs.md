@@ -8,7 +8,7 @@
 
 ## The Problem
 
-Three teams independently build "user_avg_transaction_amount"—same intent, three different window sizes, three different null-handling rules, three names. None of them know the others exist. A fourth team spends two weeks rebuilding a feature that already exists twice. Without a catalog, feature stores accumulate duplicate, inconsistent, undiscoverable features—turning what should be a reusable asset into another form of technical debt.
+Three teams independently build "user_avg_transaction_amount": same intent, three different window sizes, three different null-handling rules, three names. None of them know the others exist. A fourth team spends two weeks rebuilding a feature that already exists twice. Without a catalog, feature stores accumulate duplicate, inconsistent, undiscoverable features, turning what should be a reusable asset into another form of technical debt.
 
 ## Code Example
 
@@ -129,11 +129,11 @@ public class FeatureLineageService {
 
 ## Why This Matters
 
-A feature store without a catalog is a warehouse with no map—the assets exist, but nobody can find or trust them. Self-describing metadata turns every feature into a discoverable, documented unit rather than a private implementation detail. A searchable registry converts "let me build this" into "let me check if this exists," directly cutting duplicate effort. Lineage and ownership metadata answer the governance question that always surfaces during an incident: who owns this feature, and what breaks if it changes? Catalogs don't just organize features—they make reuse the path of least resistance.
+A feature store without a catalog is a warehouse with no map, the assets exist, but nobody can find or trust them. Self-describing metadata turns every feature into a discoverable, documented unit rather than a private implementation detail. A searchable registry converts "let me build this" into "let me check if this exists," directly cutting duplicate effort. Lineage and ownership metadata answer the governance question that always surfaces during an incident: who owns this feature, and what breaks if it changes? Catalogs don't just organize features, they make reuse the path of least resistance.
 
 ## Key Takeaway
 
-Treat every feature as a documented, owned, discoverable asset, not a private function buried in one team's codebase. Require metadata—description, owner, freshness—at registration time, not as an afterthought. Build search into the catalog so duplication is caught before it's built, and track lineage so changes don't become surprises for downstream teams.
+Treat every feature as a documented, owned, discoverable asset, not a private function buried in one team's codebase. Require metadata: description, owner, freshness: at registration time, not as an afterthought. Build search into the catalog so duplication is caught before it's built, and track lineage so changes don't become surprises for downstream teams.
 
 ---
 
