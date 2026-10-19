@@ -8,7 +8,7 @@
 
 ## The Problem
 
-Your model was trained on features computed nightly from a data warehouse—30-day rolling averages, joined across five tables, taking 20 minutes to compute. In production, that same feature needs to be available in 10 milliseconds for a live prediction. Compute it the same way and the request times out. Compute it differently and the model sees different numbers than it was trained on. This is training-serving skew, and it starts the moment offline and online paths diverge without a shared source of truth.
+Your model was trained on features computed nightly from a data warehouse, 30-day rolling averages, joined across five tables, taking 20 minutes to compute. In production, that same feature needs to be available in 10 milliseconds for a live prediction. Compute it the same way and the request times out. Compute it differently and the model sees different numbers than it was trained on. This is training-serving skew, and it starts the moment offline and online paths diverge without a shared source of truth.
 
 ## Code Example
 
@@ -126,11 +126,11 @@ public class PointInTimeFeatureRetrieval {
 
 ## Why This Matters
 
-A feature store's real job isn't storage—it's guaranteeing that a feature means the same thing whether it's being used to train a model or to serve a live prediction. Shared feature definitions eliminate the two-implementation problem by making the transformation logic a single reusable unit. The dual-store architecture accepts that offline and online have fundamentally different latency requirements, but keeps them fed from the same computation. Point-in-time correctness closes the subtlest gap: training on a feature value that technically wasn't available yet at prediction time, which produces a model that looks accurate offline and fails silently in production.
+A feature store's real job isn't storage, it's guaranteeing that a feature means the same thing whether it's being used to train a model or to serve a live prediction. Shared feature definitions eliminate the two-implementation problem by making the transformation logic a single reusable unit. The dual-store architecture accepts that offline and online have fundamentally different latency requirements, but keeps them fed from the same computation. Point-in-time correctness closes the subtlest gap: training on a feature value that technically wasn't available yet at prediction time, which produces a model that looks accurate offline and fails silently in production.
 
 ## Key Takeaway
 
-Never let offline and online feature computation drift into separate implementations—define the transformation once and materialize it to both destinations. Design for the latency asymmetry deliberately: minutes for training data, milliseconds for serving. Enforce point-in-time correctness at training time, or your offline metrics will lie to you about production performance.
+Never let offline and online feature computation drift into separate implementations, define the transformation once and materialize it to both destinations. Design for the latency asymmetry deliberately: minutes for training data, milliseconds for serving. Enforce point-in-time correctness at training time, or your offline metrics will lie to you about production performance.
 
 ---
 
