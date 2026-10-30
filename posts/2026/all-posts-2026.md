@@ -117,3 +117,9 @@
 | 75 | [Streaming Model Training - Online Learning and Concept Adaptation](october/75-streaming-model-training-online-learning.md) | Online Learning - Concept Drift - Incremental Model Updates - Adaptive Systems | Wed, 21 Oct 2026 |
 | 76 | [Real-Time Predictions - Serving Models from Streaming Pipelines](october/76-real-time-predictions-streaming-serving.md) | Real-Time Inference - Streaming Pipelines - Kafka Streams - Low-Latency Serving | Sun, 25 Oct 2026 |
 | 77 | [Model Registry and Artifact Management - Version Control for ML Experiments](october/77-model-registry-artifact-management.md) | Model Registry - Artifact Management - Experiment Tracking - Reproducibility | Wed, 28 Oct 2026 |
+
+
+### November 2026
+| # | Title | Topic | Published |
+|---|-------|-------|-----------|
+| 78 | [Canary Deployments and Shadow Models - Testing in Production Safely](november/78-canary-shadow-models-testing-in-production.md) | Canary Analysis - Shadow Models - Automated Rollback - Production Validation | Sun, 01 Nov 2026 |
