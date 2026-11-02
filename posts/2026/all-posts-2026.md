@@ -123,3 +123,4 @@
 | # | Title | Topic | Published |
 |---|-------|-------|-----------|
 | 78 | [Canary Deployments and Shadow Models - Testing in Production Safely](november/78-canary-shadow-models-testing-in-production.md) | Canary Analysis - Shadow Models - Automated Rollback - Production Validation | Sun, 01 Nov 2026 |
+| 79 | [Vector Databases and Semantic Search - Building RAG Foundations](november/79-vector-databases-semantic-search-rag.md) | Vector Databases - Embeddings - Semantic Search - Spring AI - RAG Foundations | Wed, 04 Nov 2026 |
