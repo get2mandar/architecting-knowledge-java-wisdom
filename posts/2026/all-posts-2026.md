@@ -128,3 +128,4 @@
 | 81 | [Tool Calling in Spring AI - Letting LLMs Invoke Your Services](november/81-tool-calling-spring-ai-llm-invoke-services.md) | Spring AI, Tool Calling - @Tool - ChatClient - Service Boundaries - Input Validation | Wed, 11 Nov 2026 |
 | 82 | [Human-in-the-Loop Guardrails - Approval Gates for AI Actions](november/82-human-in-the-loop-guardrails-approval-gates.md) | Human-in-the-Loop - Approval Gates - Risk Tiers - Idempotency - Audit Trail - Spring AI Tools | Sun, 15 Nov 2026 |
 | 83 | [C4 as Code - Structurizr DSL for Living Diagrams](november/83-c4-as-code-structurizr-dsl-living-diagrams.md) | C4 Model - Structurizr DSL - Architecture as Code - Living Documentation - CI Pipelines | Wed, 18 Nov 2026 |
+| 84 | [Architecture Fitness Functions - Enforcing Design with ArchUnit](november/84-architecture-fitness-functions-archunit.md) | Fitness Functions - ArchUnit - Layered Architecture - Dependency Rules - CI Enforcement | Sun, 22 Nov 2026 |
